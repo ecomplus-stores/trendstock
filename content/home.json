@@ -15,6 +15,12 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
