@@ -1,5 +1,6 @@
 {
-  "domain": "trendstock.netlify.app",
+  "domain": "trendstock.net.br",
+  "repository": "ecomplus-stores/trendstock",
   "currency_symbol": "R$",
   "primary_color": "#756f0b",
   "theme": {
