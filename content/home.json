@@ -18,12 +18,13 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "sort": null
+      "sort": null,
+      "autoplay": ""
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "views"
+      "sort": "news"
     }
   ]
 }
