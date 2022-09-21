@@ -1,13 +1,13 @@
 {
   "domain": "trendstock.net.br",
-  "repository": "ecomplus-stores/trendstock",
   "currency_symbol": "R$",
-  "primary_color": "#756f0b",
+  "primary_color": "#413e07",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/trendstock",
   "logo": "/img/uploads/1644962781413-8185e3b0-8eab-11ec-bc7d-f7083dc18ca1-1-.jpg",
   "name": "trendstock",
   "short_name": "trendstock",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/1644962781413-8185e3b0-8eab-11ec-bc7d-f7083dc18ca1-1-.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#756f0b",
+  "secondary_color": "#413e07",
   "icon": "/img/uploads/1644962781413-8185e3b0-8eab-11ec-bc7d-f7083dc18ca1-1-.jpg",
   "store_id": 38358,
   "description": "trendstock",
