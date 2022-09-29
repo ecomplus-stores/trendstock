@@ -12,7 +12,7 @@
     "text": ""
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "Produtos com até 60% OFF"
   }
 }
