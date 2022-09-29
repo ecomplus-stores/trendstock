@@ -2,13 +2,11 @@
   "marketing_stripe": {
     "text": "NÃO PERCA AS PROMOÇÕES DESTE MÊS!",
     "link": "",
-    "background": "#050505",
+    "background": "#363018",
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {}
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
