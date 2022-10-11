@@ -5,5 +5,15 @@
   "description": "Vamos descobrir o quê essas siglas representam?",
   "title": "DIFERENÇA ENTRE EDP, EPT E EDC",
   "meta_title": "Perfume e sua classificação",
-  "meta_description": "principais diferenças entre edp, edt e edc"
+  "meta_description": "principais diferenças entre edp, edt e edc",
+  "sections": [
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "623cb0be2e405e04fff905d9:categories:PERFUME:/perfume",
+      "sort": "sales"
+    }
+  ]
 }
