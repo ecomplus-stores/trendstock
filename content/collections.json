@@ -15,6 +15,13 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6345bb7773321213f8a727ce:collections:PROMOÇÃO:/promocao"
     }
   ]
 }
