@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "NÃO PERCA AS PROMOÇÕES DESTE MÊS!",
-    "link": "",
+    "link": "https://trendstock.netlify.app/admin/#/collections/pages/entries/collections",
     "background": "#363018",
     "color": "#ffffff"
   },
