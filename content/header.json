@@ -15,7 +15,8 @@
       "/perfume?PERFUME",
       "/acessorios?ACESSÓRIOS ",
       "/cuidados?CUIDADOS",
-      "/maquiagem?MAQUIAGEM "
+      "/maquiagem?MAQUIAGEM ",
+      "/black-friday?BLACK FRIDAY"
     ],
     "random": 4,
     "full_width": true
