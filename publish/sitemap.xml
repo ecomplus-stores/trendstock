@@ -1808,12 +1808,6 @@
     </url>
   
     <url>
-      <loc>https://trendstock.net.br/promocao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://trendstock.net.br/feminino</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1899,6 +1893,12 @@
   
     <url>
       <loc>https://trendstock.net.br/outlet</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://trendstock.net.br/promocao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
