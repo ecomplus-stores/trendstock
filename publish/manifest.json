@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8b5b9c70a78dca79acf69a713877cd0b.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.cb1b2adab44f547de84509431d4b179b.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.e1522390e055d2b65e9d1b841042e8ae.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.2ef36b58e4c262bc188fb9481838aad0.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.4741f5a748fddafc0ac7dba46ae30186.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "trendstock",
+  "short_name": "trendstock",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "trendstock",
+  "background_color": "#ffffff",
+  "theme_color": "#413e07"
+}
